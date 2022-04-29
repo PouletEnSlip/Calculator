@@ -1,5 +1,5 @@
 # Calculator
-Simple calculator HMI built in C++ with QT.
+Simple calculator HMI built with C++ via QT.
 
 ![0](https://github.com/PouletEnSlip/Calculator/blob/main/calcul.png)
 
